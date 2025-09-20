@@ -1,0 +1,35 @@
+# Core ML and Computer Vision Libraries
+tensorflow>=2.15.0
+torch>=2.1.0
+torchvision>=0.16.0
+ultralytics>=8.0.0  # YOLOv8/YOLOv9
+opencv-python>=4.8.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+pillow>=10.0.0
+
+# Web UI Framework
+streamlit>=1.28.0
+streamlit-option-menu>=0.3.6
+streamlit-image-coordinates>=0.1.5
+
+# Data Processing and Visualization
+pandas>=2.0.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Database and Storage
+sqlite3  # Built-in with Python
+sqlalchemy>=2.0.0
+alembic>=1.12.0
+
+# Configuration and Utilities
+pyyaml>=6.0
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+requests>=2.31.0
+
+# Development and Testing
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
